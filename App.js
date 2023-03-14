@@ -7,7 +7,6 @@ import Home from './screen/Home'
 import About from './screen/About'
 import Register from './screen/Register'
 import Login from './screen/Login'
-
 const Drawer = createDrawerNavigator();
 class App extends Component {
   constructor () {
