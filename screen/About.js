@@ -8,7 +8,6 @@ class About extends Component {
         <View style={styles.container}>
          <Text style={styles.textstyle}>About</Text> 
          <Text>This is the first project</Text>
-         <Text style={styles.textstyle}>About</Text>
         </View>
     )
   }

@@ -21,7 +21,6 @@ class Home extends Component {
               <Text style={styles.txtstyle}>Subscribers : {this.state.count}</Text>
               <Text style={styles.textstyle}>Mobil Application</Text>
               </View>
-              <Button title="About" onPress={()=> this.props.navigation.navigate('About')}></Button>
            </View>
     )
   }
